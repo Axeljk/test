@@ -1,4 +1,4 @@
-- name: GitHub Project Board Automation
+  - name: GitHub Project Board Automation
   # You may pin to the exact commit or the version.
   # uses: pritishvaidya/github-project-board-automation@2583d56fa67eb814a7f8b11c02a52e34a05c6046
   uses: pritishvaidya/github-project-board-automation@0.0.1.9
